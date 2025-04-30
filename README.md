@@ -214,7 +214,6 @@ pipeline {
 - [AWS ECS Documentation](https://docs.aws.amazon.com/ecs/latest/developerguide/what-is-ecs.html)
 
 ---
-``` 
 
 ---
 
